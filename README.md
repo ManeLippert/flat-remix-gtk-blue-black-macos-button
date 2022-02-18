@@ -1,6 +1,6 @@
 ![Flat Remix GTK theme](assets/logo.svg)
 
-I modified the theme so that everything is black and the minimize, maximize and close buttons have mac os colors.
+I modified the orignial darkest blue theme so that totally everything window related is black and the minimize, maximize and close buttons have mac os colors because i like that look the most.
 
 |               | **Color**                                                                                              | **Button**                                           |
 |:--------------|:-------------------------------------------------------------------------------------------------------:|:--------------------------------------------------:|
