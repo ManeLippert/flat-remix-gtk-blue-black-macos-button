@@ -1,5 +1,10 @@
 ![Flat Remix GTK theme](assets/logo.svg)
 
+# Description
+Flat Remix is a GTK application theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.
+
+# Changes
+
 I modified the orignial darkest blue theme so that totally everything window related is black and the ```minimize```, ```maximize``` and ```close``` buttons have mac os colors because I like that look the most.
 
 |               | **Color**                                                                                               | **GTK3**                                            | **GTK4**
